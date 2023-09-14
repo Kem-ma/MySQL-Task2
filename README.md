@@ -42,21 +42,32 @@ For this task, the commands used to update and modity data within a table will b
 
  ![](modify_mysql1.png)
 
+The syntax "ALTER TABLE table_name MODIFY COLUMN column_name datatype;
+
   
 - Run a query that returns day, month and year of Date_Of_Entry of the employee.
 
 ![](Introduction_MySQL6.png)
 
+The commands used here are "SELECT YEAR, MONTHNAME, DAYNAME, SELECT * FROM"
+
 - Run a query that adds 10 years to the date_of_entry and name it Year_of_exit.
 
   ![](Introduction_MySQL7.png)
+
+The commands used were "DATE_ADD, SELECT * FROM"
 
 - Update all the Employee_Info table with all these changes
 
   ![](Introduction_MySQL8.png)
 
+The commands used were "ALTER TABLE, UPDATE"
 
   
+
+## Conclusion
+
+This task explored how to modify and update data and the date/time function.
 
 
 
