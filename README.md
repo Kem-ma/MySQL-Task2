@@ -47,7 +47,14 @@ For this task, the commands used to update and modity data within a table will b
 
 ![](Introduction_MySQL6.png)
 
-- Run a query that adds 10 years to the date_of_entry and name it Year_of_exsit.
+- Run a query that adds 10 years to the date_of_entry and name it Year_of_exit.
+
+  ![](Introduction_MySQL7.png)
+
+- Update all the Employee_Info table with all these changes
+
+  ![](Introduction_MySQL8.png)
+
 
   
 
