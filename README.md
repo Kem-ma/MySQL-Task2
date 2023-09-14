@@ -43,6 +43,13 @@ For this task, the commands used to update and modity data within a table will b
  ![](modify_mysql1.png)
 
   
+- Run a query that returns day, month and year of Date_Of_Entry of the employee.
+
+![](Introduction_MySQL6.png)
+
+- Run a query that adds 10 years to the date_of_entry and name it Year_of_exsit.
+
+  
 
 
 
