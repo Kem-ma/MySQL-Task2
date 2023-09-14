@@ -40,7 +40,7 @@ For this task, the commands used to update and modity data within a table will b
 
  - Changing the datatype  of the Employee_ID to text.
 
-   ![](modify_mysql1.png)
+ ![](modify_mysql1.png)
 
   
 
