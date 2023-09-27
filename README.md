@@ -20,16 +20,17 @@ For this task, the commands used to update and modity data within a table will b
     ![](Update_mysql2.png)
 
     To rename the ID columns to Employee_ID the syntax "ALTER TABLE table_name CHANGE old_column_name New_column_name data type;"
-    To add a new column to the Employee_Salary table, the syntax "ALTER TABLE table_name ADD COLUMN column_name datatype;"
+
+   To add a new column to the Employee_Salary table, the syntax "ALTER TABLE table_name ADD COLUMN column_name datatype;"
 
 
  - The third question in this task looked at updating data within a table,updating multiple rows.
 
    Here employees with the following Employee_ID were updated to the following department as follow:
 
- 1, 3, 7 - IT
+ 1, 3, 7 - IT.
  ---
- 2, 5,  9 - Advertising
+ 2, 5,  9 - Advertising.
  ---
  4, 6, 8, 10 - Communication.
  ---
