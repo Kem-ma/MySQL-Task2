@@ -29,11 +29,11 @@ For this task, the commands used to update and modity data within a table will b
    Here employees with the following Employee_ID were updated to the following department as follow:
 
  1, 3, 7 - IT.
- ---
+ 
  2, 5,  9 - Advertising.
- ---
+ 
  4, 6, 8, 10 - Communication.
- ---
+
 
    
 ![](Introduction_MySQL5.png)
